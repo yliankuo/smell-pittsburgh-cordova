@@ -21,6 +21,17 @@ div.textfield-disabled {
   background-color: #ddd !important;
 }
 
+textarea.input-equivalent {
+  height: 37px !important;
+}
+
 textarea {
   height: 104px !important;
+}
+
+#button_submit_report {
+  background-color: #97c93c;
+  color: white;
+  font-weight: bold;
+  text-shadow: none;
 }
